@@ -8,4 +8,4 @@ A simple calculator in Python
 4. Upon being prompted whether you want to use the application again, enter "Y" for yes and "N" for no
 
 ## Acknowledgements
-Thanks to Lisa Tagliaferri[https://github.com/ltagliaferri] for her article on coding a python calculator for DigitalOcean[https://www.digitalocean.com/community/tutorials/how-to-make-a-calculator-program-in-python-3]
+Thanks to [Lisa Tagliaferri](https://github.com/ltagliaferri) for her article on coding a python calculator for [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-make-a-calculator-program-in-python-3)
